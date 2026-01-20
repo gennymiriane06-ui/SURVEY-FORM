@@ -2,6 +2,9 @@
 
 A  simple Survey Form that collects user informations
 
+![Survey Form Screenshot](assets/image/surveyform.png)
+
+
 ## Description
 
 This is a basic survey form that asks users for their name, age , email
@@ -23,10 +26,6 @@ This is a basic survey form that asks users for their name, age , email
 
 * HTML
 * CSS
-
-## Preview
-
-![Survey Form Screenshot](assets/images/surveyform.png)
 
 
 
